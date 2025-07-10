@@ -140,4 +140,4 @@ dmypy.json
 *.txt
 #models/
 #results/
-#*.dat
+*.dat
